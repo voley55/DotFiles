@@ -24,4 +24,5 @@ alias gpl='git pull'
 alias gpu='git push'
 alias grm='git rm'
 alias gcl='git clone'
-
+alias gc='git commit'
+alias gg='gitg --all'
