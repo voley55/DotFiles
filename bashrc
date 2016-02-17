@@ -27,3 +27,10 @@ alias gcl='git clone'
 alias gc='git commit'
 alias gg='gitg --all'
 alias s='sudo'
+
+#docker shortcuts
+alias dr='sudo docker run'
+alias di='sudo docker images'
+alias dps='sudo docker ps -a'
+alias da='sudo docker attach'
+
