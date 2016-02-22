@@ -7,7 +7,10 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
-
+alias ss='sudo systemctl'
+alias sj='sudo journalctl -f'
+alias pac='sudo pacman -S'
+alias pacy='sudo pacman -Syu'
 #git shortcuts
 alias gl='git log'
 alias gco='git checkout'
@@ -33,4 +36,6 @@ alias dr='sudo docker run'
 alias di='sudo docker images'
 alias dps='sudo docker ps -a'
 alias da='sudo docker attach'
+alias d='sudo docker'
+alias ds='sudo docker stats'
 
