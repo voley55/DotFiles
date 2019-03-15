@@ -1,0 +1,6 @@
+# vpn client files
+*.ovpn
+
+# hidden files
+.*
+!/.gitignore

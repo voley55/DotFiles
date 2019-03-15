@@ -1,0 +1,7 @@
+#
+# ~/.bash_profile
+#
+
+export SHELL=$(which zsh)
+exec $(which zsh) -l
+
